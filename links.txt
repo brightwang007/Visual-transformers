@@ -1,3 +1,0 @@
-Links to the implementations of some of the latest/classical visual transformers:
-
-1. ViT in pytorch: https://github.com/lucidrains/vit-pytorch
