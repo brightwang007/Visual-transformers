@@ -1,3 +1,7 @@
 Links to the implementations of some of the latest/classical transformers for general vision tasks:
 
-1. ViT in pytorch: https://github.com/lucidrains/vit-pytorch
+1. Image classification:
+ViT in pytorch: https://github.com/lucidrains/vit-pytorch
+
+2. Object detection:
+Deformable DETR: https://github.com/fundamentalvision/Deformable-DETR
